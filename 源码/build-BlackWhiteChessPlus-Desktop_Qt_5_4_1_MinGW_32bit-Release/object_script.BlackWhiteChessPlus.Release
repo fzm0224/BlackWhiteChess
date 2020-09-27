@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\startui.o
+./release\chessboard.o
+./release\chessai.o
+./release\about.o
+./release\ask.o
+./release\qrc_image.o
+./release\moc_startui.o
+./release\moc_chessboard.o
+./release\moc_about.o
+./release\moc_ask.o
+);

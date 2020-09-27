@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/2.png</file>
+        <file>res/1.png</file>
+        <file>res/b1.png</file>
+        <file>res/b2.png</file>
+        <file>res/b3.png</file>
+        <file>res/b4.png</file>
+        <file>res/background.jpg</file>
+        <file>res/caption.jpg</file>
+        <file>res/ice.jpg</file>
+        <file>res/ui1.jpg</file>
+        <file>res/ui3.jpg</file>
+        <file>res/vectory.gif</file>
+        <file>res/wwk.gif</file>
+        <file>res/instruction.jpg</file>
+        <file>res/bg.jpg</file>
+        <file>res/about.png</file>
+        <file>res/v1.gif</file>
+        <file>res/dlg1.png</file>
+        <file>res/dlg2.png</file>
+        <file>res/dlg3.png</file>
+        <file>res/dlg4.png</file>
+        <file>res/circle1.png</file>
+        <file>res/circle2.png</file>
+        <file>res/circle3.png</file>
+        <file>res/circle4.png</file>
+    </qresource>
+</RCC>

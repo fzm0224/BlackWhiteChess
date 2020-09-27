@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\startui.o
+./debug\chessboard.o
+./debug\chessai.o
+./debug\about.o
+./debug\ask.o
+./debug\qrc_image.o
+./debug\moc_startui.o
+./debug\moc_chessboard.o
+./debug\moc_about.o
+./debug\moc_ask.o
+);
